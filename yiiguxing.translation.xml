@@ -1,0 +1,13 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="抢票" />
+      <item value="抢购" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
