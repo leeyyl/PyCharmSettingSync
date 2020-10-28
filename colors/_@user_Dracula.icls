@@ -3,7 +3,7 @@
     <property name="created">2020-02-20T11:11:21</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-10-28T15:08:11</property>
+    <property name="modified">2020-10-28T15:21:16</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -846,13 +846,13 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />

@@ -10,9 +10,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="PT Mono" />
+    <option name="FONT_FAMILY" value="Cascadia Code" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Sarasa Mono SC" />
+    <option name="SECONDARY_FONT_FAMILY" value="CaskaydiaCove NF" />
   </component>
   <component name="EditorSettings">
     <option name="ENABLE_RENDERED_DOC" value="true" />
